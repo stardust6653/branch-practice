@@ -2,4 +2,5 @@
 
 - English : Hello
 - Korean: 안녕하세요
-- chinese : Ni hao
+- Chinese : Ni hao
+- Spanish : Ola!
