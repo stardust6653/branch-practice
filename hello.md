@@ -2,4 +2,4 @@
 
 - English : Hello
 - Korean: 안녕하세요
-- 
+- chinese : Ni hao
